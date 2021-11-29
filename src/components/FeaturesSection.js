@@ -70,7 +70,7 @@ export default class FeaturesSection extends React.Component {
                         >
                             {title && (
                                 sectionTitle ? <h3 className="feature__title h2">{title}</h3>
-                                    : <h2 className="feature__title h2">{title + "gg"}</h2>
+                                    : <h2 className="feature__title h2">{title + " gg"}</h2>
                             )}
                             {subtitle && <p className="feature__subtitle">{subtitle}</p>}
                             {content && <div className="feature__copy">{markdownify(content)}</div>}
