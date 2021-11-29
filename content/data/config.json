@@ -154,5 +154,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://modern-aluminum-4fbc2.netlify.app"
 }
